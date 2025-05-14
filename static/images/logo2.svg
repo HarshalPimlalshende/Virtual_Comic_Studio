@@ -1,0 +1,10 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .comic-logo { font-family: 'Comic Sans MS', cursive, sans-serif; }
+  </style>
+  <!-- Superhero shield logo -->
+  <path d="M50 10 L75 20 L85 50 L50 90 L15 50 L25 20 Z" fill="#2196F3" stroke="#0A1929" stroke-width="2"/>
+  <path d="M50 20 L65 26 L72 50 L50 75 L28 50 L35 26 Z" fill="#FFFFFF" stroke="#0A1929" stroke-width="1"/>
+  <text x="50" y="55" class="comic-logo" text-anchor="middle" fill="#0A1929" font-weight="bold" font-size="16">HERO</text>
+  <path d="M40 32 L50 25 L60 32" stroke="#0A1929" stroke-width="2" fill="none"/>
+</svg>
